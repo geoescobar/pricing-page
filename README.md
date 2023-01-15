@@ -59,6 +59,6 @@ HTML/CSS pricing page that can be used for a website. This is from an Adobe XD t
 
 ## Application
 
-#### [Demo](https://snazzy-florentine-5506bf.netlify.app/)
+#### [Demo](https://effervescent-panda-390198.netlify.app/)
 
 ![Repo](./documents/screenshot.png)
