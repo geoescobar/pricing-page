@@ -14,6 +14,7 @@ HTML/CSS pricing page that can be used for a website. This is from an Adobe XD t
 
 - [License](#license)
 - [Technologies](#technologies)
+- [Links](#links)
 - [Description](#description)
 - [Installation](#installation)
 - [Application](#application)
@@ -26,6 +27,14 @@ HTML/CSS pricing page that can be used for a website. This is from an Adobe XD t
 - HTML
 - CSS
 - Bootstrap
+
+---
+
+## Links
+
+- [Adobe XD Files](https://github.com/geoescobar/pricing-page/tree/main/documents)
+- [Adobe XD Developer Specs](https://xd.adobe.com/view/7b516635-36c0-41af-87dd-a386f6a7e6d5-2e02/specs/)
+- [Template Origin Link](https://elements.envato.com/pricing-table-6KPVZJ7)
 
 ---
 
