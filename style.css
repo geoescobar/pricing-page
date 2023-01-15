@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+  /* background: #cbe4f9 0% 0% no-repeat padding-box; */
+}
+
+body {
+  height: 100%;
+  background: #cbe4f9 0% 0% no-repeat padding-box !important;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 48px;
+}
+
+.description {
+  color: #949fac;
+  font-size: 18px;
+}
+
+.price {
+  font-size: 72px;
+  font-weight: bold;
+}
+
+.start-btn {
+  background-color: #3861d7 !important;
+  font-weight: bold !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .content {
+    margin-left: 97px !important;
+    padding-bottom: 20px !important;
+  }
+}
